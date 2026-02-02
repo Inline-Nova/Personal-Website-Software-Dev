@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/CU-CSCI3308-Spring2026/lab-3-gui-development-Inline-Nova.git
+	fetch = +refs/*:refs/*
+	mirror = true
